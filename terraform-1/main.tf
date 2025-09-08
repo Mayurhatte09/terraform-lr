@@ -5,4 +5,5 @@ resource "aws_instance" "myresource" {
     tags = {
         Name = "Instance-1"
     }
+
 }
